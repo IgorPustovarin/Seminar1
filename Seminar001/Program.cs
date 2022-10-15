@@ -17,3 +17,4 @@ else
 {
     Console.WriteLine("Не является квадратом");
 }
+Console.WriteLine("Спасибо за внимание");
