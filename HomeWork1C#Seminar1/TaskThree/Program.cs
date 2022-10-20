@@ -2,7 +2,7 @@
 Console.WriteLine("Введите число, проверим его на чётность ");
 
 int a = int.Parse(Console.ReadLine()!);
-int b = 0;
+int b = 3;
 b = a % 2;
 
 if (b == 0)
