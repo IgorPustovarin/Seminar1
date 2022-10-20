@@ -15,7 +15,6 @@ int max = a;
 
 if (a < b) max = b;
 if (a < c) max = c;
-//if (b < c) max = c;
 
 Console.Write("max = ");
 Console.WriteLine(max);
