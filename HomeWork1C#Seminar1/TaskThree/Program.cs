@@ -2,8 +2,6 @@
 Console.WriteLine("Введите число, проверим его на чётность ");
 
 int number = int.Parse(Console.ReadLine()!);
-//int remains = 3;
-//remains = number % 2;
 
 if (number % 2 == 0)
 {
