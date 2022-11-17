@@ -12,4 +12,3 @@ int[] Array = new int [10];
         Console.Write($"{Array[count]}, ");
     }
 Console.WriteLine($"Количество четных чисел {NumberPositive}");
-
